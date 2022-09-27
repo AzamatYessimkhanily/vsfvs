@@ -1,0 +1,8 @@
+a=int(input("Enter first side:"))
+b=int(input("Enter second side:"))
+c=int(input("Enter first side2:"))
+d=int(input("Enter second side2:"))
+e=int(input("Enter first side3:"))
+f=int(input("Enter second side3:"))
+g=(a*b)+(c*d)+(e*f)
+print("The are of three reactangle is:",g)
